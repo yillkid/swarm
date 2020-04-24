@@ -1,0 +1,4 @@
+PyOTA
+flask
+flask_cors
+pytest
